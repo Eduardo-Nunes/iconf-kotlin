@@ -6,7 +6,7 @@ import kotlinx.coroutines.experimental.runBlocking
 import java.lang.Thread.sleep
 import kotlin.concurrent.thread
 
-fun main(args: Array<String>) = coroutines(100_000)
+fun main(args: Array<String>) = threads(100_000)
 
 fun threads(n: Int) {
     val threads = List(n) {
