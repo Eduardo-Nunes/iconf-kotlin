@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d5560f4-13e5-4fa8-9184-524d31a56a3b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_jetbrains_kotlin_kotlin_android_extensions_1_2_50.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_coroutines/ThreadsVsCoroutines.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_06_coroutines/CallbackToCoroutines.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iconf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/iconf.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,13 +87,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreadsVsCoroutines.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThreadsVsCoroutines.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_06_coroutines/ThreadsVsCoroutines.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="28">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#24#85#0" expanded="true" />
+                <element signature="e#24#181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CallbackToCoroutines.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_06_coroutines/CallbackToCoroutines.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+              <folding>
+                <element signature="e#24#129#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,8 +118,8 @@
       <list>
         <option value="Class" />
         <option value="Kotlin Class" />
-        <option value="Kotlin File" />
         <option value="Gradle Kotlin DSL Settings" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -133,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/_04_expressions/Expressions.kt" />
         <option value="$PROJECT_DIR$/src/_05_functional/Lambdas.kt" />
         <option value="$PROJECT_DIR$/src/_06_coroutines/ThreadsVsCoroutines.kt" />
+        <option value="$PROJECT_DIR$/src/_06_coroutines/CallbackToCoroutines.kt" />
       </list>
     </option>
   </component>
@@ -328,7 +339,7 @@
       <option name="presentableId" value="Default" />
       <updated>1530149097745</updated>
       <workItem from="1530149099960" duration="301000" />
-      <workItem from="1530149422063" duration="10142000" />
+      <workItem from="1530149422063" duration="11775000" />
     </task>
     <task id="LOCAL-00001" summary="delegates and properties">
       <created>1530162326570</created>
@@ -358,11 +369,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530185038181</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add coroutines and kotlinx experimental features">
+      <created>1530186709528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530186709528</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10443000" />
+    <option name="totallyTimeSpent" value="12076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -386,12 +404,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="right" id="Kotlin Bytecode" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3290653" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.3290653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3290653" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3290653" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290653" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -444,7 +462,8 @@
     <MESSAGE value="add functions exercise" />
     <MESSAGE value="renamed bean to classes package" />
     <MESSAGE value="add expressions and lambdas exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="add expressions and lambdas exercise" />
+    <MESSAGE value="add coroutines and kotlinx experimental features" />
+    <option name="LAST_COMMIT_MESSAGE" value="add coroutines and kotlinx experimental features" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/_01_classes/Beam.java">
@@ -562,10 +581,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_06_coroutines/ThreadsVsCoroutines.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="28">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#24#85#0" expanded="true" />
+            <element signature="e#24#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_06_coroutines/CallbackToCoroutines.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+          <folding>
+            <element signature="e#24#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -627,6 +656,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -634,7 +664,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>org.jetbrains.kotlin:kotlin-android-extensions:1.2.50</last-edited>
+          <last-edited>org.jetbrains.kotlinx:kotlinx-coroutines-core:0.22.5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
