@@ -1,4 +1,4 @@
-package _01_bean;
+package _01_classes;
 
 public class Beam {
     private final String name;

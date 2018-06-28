@@ -1,4 +1,4 @@
-package _01_bean
+package _01_classes
 
 class Bean {
     private var name: String

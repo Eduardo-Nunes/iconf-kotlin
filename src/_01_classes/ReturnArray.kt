@@ -1,4 +1,4 @@
-package _01_bean
+package _01_classes
 
 fun parseName(name: String): List<String> {
     val space = name.indexOf(' ')
