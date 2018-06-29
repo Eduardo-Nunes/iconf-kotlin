@@ -1,46 +1,28 @@
 package _02_properties
 
 
-
-
-private var prop: String = "..."
-
-fun getProp() = prop
-fun setProp(v: String){
-    println("New Value: $v")
-    prop = v
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-private var _os: String? = null
-val os: String
-    get() {
-        if (_os == null){
-            println("Computing...")
-            _os = System.getProperty("os.name") +
-                    " v" + System.getProperty("os.version") +
-                    " (" + System.getProperty("os.arch") + ")"
-        }
-        return _os!!
+private var prop = "..."
+    set(value) {
+        println("New Value: $value")
+        field = value
     }
+
+
+
+
+
+
+
+
+
+
+
+val os: String by lazy {
+    println("Computing...")
+    System.getProperty("os.name") +
+            " v" + System.getProperty("os.version") +
+            " (" + System.getProperty("os.arch") + ")"
+}
 
 
 

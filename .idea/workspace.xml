@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d5560f4-13e5-4fa8-9184-524d31a56a3b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_06_coroutines/CallbackToCoroutines.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_classes/Bean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_classes/Bean.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_01_classes/ReturnArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_classes/ReturnArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_properties/Properties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_properties/Properties.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_functions/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_functions/Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_functions/Transversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_functions/Transversal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_04_expressions/Expressions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_expressions/Expressions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_05_functional/Lambdas.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_functional/Lambdas.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_06_coroutines/ThreadsVsCoroutines.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_coroutines/ThreadsVsCoroutines.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,99 +21,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyDelegateProperties.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_02_properties/MyDelegateProperties.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReturnArray.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_01_classes/ReturnArray.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Properties.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_02_properties/Properties.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file leaf-file-name="Observable.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_02_properties/Observable.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="60">
+              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Functions.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_03_functions/Functions.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transversal.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_03_functions/Transversal.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Expressions.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_04_expressions/Expressions.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lambdas.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Lambdas.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/_05_functional/Lambdas.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ThreadsVsCoroutines.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_06_coroutines/ThreadsVsCoroutines.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#24#181#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CallbackToCoroutines.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/_06_coroutines/CallbackToCoroutines.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-              <folding>
-                <element signature="e#24#129#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -135,15 +64,18 @@
         <option value="$PROJECT_DIR$/src/_01_bean/ReturnArray.kt" />
         <option value="$PROJECT_DIR$/src/_02_properties/Observable.kt" />
         <option value="$PROJECT_DIR$/src/_02_properties/MyDelegateProperties.java.kt" />
-        <option value="$PROJECT_DIR$/src/_02_properties/Properties.kt" />
         <option value="$PROJECT_DIR$/src/_02_properties/MyDelegateProperties.kt" />
-        <option value="$PROJECT_DIR$/src/_03_functions/Functions.kt" />
         <option value="$PROJECT_DIR$/src/_08_local_sealed_casts/ElementCast.kt" />
+        <option value="$PROJECT_DIR$/src/_06_coroutines/CallbackToCoroutines.kt" />
+        <option value="$PROJECT_DIR$/src/_07_lazy_sequence/LazySequence.kt" />
+        <option value="$PROJECT_DIR$/src/_01_classes/Bean.kt" />
+        <option value="$PROJECT_DIR$/src/_02_properties/Properties.kt" />
+        <option value="$PROJECT_DIR$/src/_01_classes/ReturnArray.kt" />
+        <option value="$PROJECT_DIR$/src/_03_functions/Functions.kt" />
         <option value="$PROJECT_DIR$/src/_03_functions/Transversal.kt" />
         <option value="$PROJECT_DIR$/src/_04_expressions/Expressions.kt" />
-        <option value="$PROJECT_DIR$/src/_05_functional/Lambdas.kt" />
         <option value="$PROJECT_DIR$/src/_06_coroutines/ThreadsVsCoroutines.kt" />
-        <option value="$PROJECT_DIR$/src/_06_coroutines/CallbackToCoroutines.kt" />
+        <option value="$PROJECT_DIR$/src/_05_functional/Lambdas.kt" />
       </list>
     </option>
   </component>
@@ -153,13 +85,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="878" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -188,6 +125,18 @@
               <item name="iconf" type="b2602c69:ProjectViewProjectNode" />
               <item name="iconf" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_02_properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iconf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iconf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_05_functional" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iconf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iconf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="_06_coroutines" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -204,7 +153,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="kotlin byte&#9;ACTION&#9;ShowKotlinBytecode" />
+    <property name="SearchEverywhereHistoryKey" value="bytecode&#9;ACTION&#9;ShowKotlinBytecode&#10;kotlin byte&#9;ACTION&#9;ShowKotlinBytecode" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -251,6 +200,16 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="_01_classes.ReturnArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="iconf" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_01_classes.ReturnArrayKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration name="_02_properties.ObservableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="iconf" />
       <option name="VM_PARAMETERS" />
@@ -271,16 +230,6 @@
       <option name="MAIN_CLASS_NAME" value="_02_properties.PropertiesKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="_03_functions.TransversalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="iconf" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="_03_functions.TransversalKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
     <configuration name="_06_coroutines.ThreadsVsCoroutinesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="iconf" />
       <option name="VM_PARAMETERS" />
@@ -289,6 +238,16 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="_06_coroutines.ThreadsVsCoroutinesKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="_07_lazy_sequence.LazySequenceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="iconf" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="_07_lazy_sequence.LazySequenceKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -314,17 +273,19 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Kotlin._01_classes.ReturnArrayKt" />
+      <item itemvalue="Kotlin._07_lazy_sequence.LazySequenceKt" />
       <item itemvalue="Kotlin._02_properties.PropertiesKt" />
       <item itemvalue="Kotlin._02_properties.ObservableKt" />
-      <item itemvalue="Kotlin._03_functions.TransversalKt" />
       <item itemvalue="Kotlin._06_coroutines.ThreadsVsCoroutinesKt" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin._06_coroutines.ThreadsVsCoroutinesKt" />
-        <item itemvalue="Kotlin._03_functions.TransversalKt" />
         <item itemvalue="Kotlin._02_properties.ObservableKt" />
         <item itemvalue="Kotlin._02_properties.PropertiesKt" />
+        <item itemvalue="Kotlin._01_classes.ReturnArrayKt" />
+        <item itemvalue="Kotlin._07_lazy_sequence.LazySequenceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +300,7 @@
       <option name="presentableId" value="Default" />
       <updated>1530149097745</updated>
       <workItem from="1530149099960" duration="301000" />
-      <workItem from="1530149422063" duration="11775000" />
+      <workItem from="1530149422063" duration="27669000" />
     </task>
     <task id="LOCAL-00001" summary="delegates and properties">
       <created>1530162326570</created>
@@ -376,11 +337,32 @@
       <option name="project" value="LOCAL" />
       <updated>1530186709528</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="coroutines exercises">
+      <created>1530188299836</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1530188299836</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" adjust">
+      <created>1530219910456</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1530219910456</updated>
+    </task>
+    <task id="LOCAL-00008" summary="lazy sequence">
+      <created>1530223980949</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1530223980949</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12076000" />
+    <option name="totallyTimeSpent" value="27970000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,24 +374,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3290653" />
-      <window_info anchor="bottom" id="Messages" weight="0.3290653" />
+      <window_info anchor="bottom" id="Messages" weight="0.3283582" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="right" id="Kotlin Bytecode" weight="0.3297568" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Kotlin Bytecode" weight="0.32960597" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290653" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3290653" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31030303" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.2557214" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290653" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -463,7 +446,15 @@
     <MESSAGE value="renamed bean to classes package" />
     <MESSAGE value="add expressions and lambdas exercise" />
     <MESSAGE value="add coroutines and kotlinx experimental features" />
-    <option name="LAST_COMMIT_MESSAGE" value="add coroutines and kotlinx experimental features" />
+    <MESSAGE value="coroutines exercises" />
+    <MESSAGE value=" adjust" />
+    <MESSAGE value="lazy sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="lazy sequence" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/_01_classes/Beam.java">
@@ -486,79 +477,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_01_classes/Beam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_01_classes/Bean.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/properties/Delegates.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_02_properties/MyDelegateProperties.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_01_classes/ReturnArray.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_02_properties/Properties.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_02_properties/Observable.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_03_functions/Functions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_03_functions/Transversal.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_04_expressions/Expressions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -569,33 +491,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_05_functional/Lambdas.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/iconf.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01_classes/Beam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01_classes/Bean.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/util/LazyJVM.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_02_properties/MyDelegateProperties.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_02_properties/Properties.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_01_classes/ReturnArray.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/String.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_03_functions/Functions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_03_functions/Transversal.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_04_expressions/Expressions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1004">
+          <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_06_coroutines/ThreadsVsCoroutines.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#24#181#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="532">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_07_lazy_sequence/LazySequence.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/_06_coroutines/CallbackToCoroutines.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        <state relative-caret-position="311">
+          <caret line="29" column="27" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
           <folding>
             <element signature="e#24#129#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_02_properties/Observable.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_05_functional/Lambdas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>

@@ -1,19 +1,3 @@
 package _01_classes
 
-class Bean {
-    private var name: String
-    private var age: Int
-
-    constructor(n: String, a: Int){
-        name = n
-        age = a
-    }
-
-    fun getName(): String{
-        return name
-    }
-
-    fun getAte(): Int{
-        return age
-    }
-}
+class Bean(val name: String, val age: Int){}

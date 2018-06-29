@@ -1,16 +1,15 @@
 package _03_functions
 
-class StringUtil {
-    fun getFirstWord(s: String, separator: String): String {
-        val index = s.indexOf(separator)
-        return if (index > 0) s else s.substring(0, index)
-    }
 
-    fun getFirstWord(s: String) = getFirstWord(s, " ")
+fun String.getFirstWord(): String {
+    val index = indexOf(" ")
+    return if (index > 0) this else substring(0, index)
 }
+
 
 fun main(args: Array<String>) {
     println(
-            StringUtil().getFirstWord("Mary Jane")
+            "Mary Jane".getFirstWord()
+
     )
 }
